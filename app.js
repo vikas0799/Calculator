@@ -18,8 +18,12 @@ function result(){
 }
 // Amitoz //
 
+//<<<<<<< ayush
+//console.log("stan");
+//=======
 //<<<<<<< Dhruv
 // console.log("Dhruv");
 //=======
 // new changes commited khyati 
+//>>>>>>> master
 //>>>>>>> master
