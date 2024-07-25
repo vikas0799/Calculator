@@ -17,4 +17,4 @@ function result(){
     document.getElementById("res").value=y;
 }
 
-//ayush
+//ayush kumar singh
