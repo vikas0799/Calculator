@@ -17,3 +17,6 @@ function result(){
     document.getElementById("res").value=y;
 }
 
+
+// shikariiiiiiiiiiiiii
+
