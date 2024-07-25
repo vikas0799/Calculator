@@ -16,5 +16,10 @@ function result(){
     document.getElementById("exp").value="";
     document.getElementById("res").value=y;
 }
+// Amitoz //
 
+//<<<<<<< Dhruv
 // console.log("Dhruv");
+//=======
+// new changes commited khyati 
+//>>>>>>> master
