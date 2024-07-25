@@ -16,5 +16,14 @@ function result(){
     document.getElementById("exp").value="";
     document.getElementById("res").value=y;
 }
+// Amitoz //
 
-console.log("stan");
+//<<<<<<< ayush
+//console.log("stan");
+//=======
+//<<<<<<< Dhruv
+// console.log("Dhruv");
+//=======
+// new changes commited khyati 
+//>>>>>>> master
+//>>>>>>> master
