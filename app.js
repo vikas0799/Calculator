@@ -18,4 +18,8 @@ function result(){
 }
 // Amitoz //
 
+//<<<<<<< Dhruv
+// console.log("Dhruv");
+//=======
 // new changes commited khyati 
+//>>>>>>> master
