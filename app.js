@@ -15,6 +15,7 @@ function result(){
     y=eval(y);
     document.getElementById("exp").value="";
     document.getElementById("res").value=y;
+    document.write("ketan singh");
 }
 
 
