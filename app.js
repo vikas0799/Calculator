@@ -17,3 +17,4 @@ function result(){
     document.getElementById("res").value=y;
 }
 
+//ajay
