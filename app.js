@@ -16,4 +16,5 @@ function result(){
     document.getElementById("exp").value="";
     document.getElementById("res").value=y;
 }
+// Amitoz //
 
