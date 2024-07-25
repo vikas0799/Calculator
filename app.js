@@ -17,3 +17,10 @@ function result(){
     document.getElementById("res").value=y;
 }
 
+
+//this edit was made by ketan singh
+
+//from first class of g3
+
+
+
