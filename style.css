@@ -5,7 +5,7 @@
 body{
     display: grid;
     place-items: center;
-    background:#3f51b5;
+    background:#969dc6;
 }
 .container{
     margin-top: 30px;
@@ -15,7 +15,7 @@ body{
     grid-template-columns: repeat(4,1fr);    
    
    border-radius: 20px;
-   background-color: #c0c0dd;
+   background-color: #7e7e9e;
 
 }
 div :not(container,.cn,.dr){
@@ -23,7 +23,7 @@ div :not(container,.cn,.dr){
     margin: 10px;
 }
 .item{
-    background-color:rgb(95, 175, 113);
+    background-color:rgb(165, 197, 174);
      font-size: xx-large;
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
@@ -31,8 +31,8 @@ div :not(container,.cn,.dr){
      display: grid;
      justify-content: center;
      align-items: center; 
-     text-decoration-color: rgb(228, 215, 210);
-     color:darkblack;
+     text-decoration-color: rgb(211, 183, 172);
+     color:black;
 }
 .dce{
     grid-column: 1/5;
@@ -49,11 +49,11 @@ div :not(container,.cn,.dr){
 input{
     width: 185px;
     height: 60px;
-    background-color: #d0e6cf;
+    background-color: #a0d89b;
     font-size: x-large;
     font-weight: lighter;
     padding: 4px;
 }
 h2{
-    color:darkblue;
+    color:rgb(53, 53, 209);
 }
